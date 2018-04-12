@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "highgirlgames/monster-high",
+    "description": "monster high game Framework.",
+    "keywords": ["framework", "monster high game"],
     "license": "MIT",
     "type": "project",
     "require": {
